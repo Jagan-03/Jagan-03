@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jaganath.netlify.app/](https://jaganath.netlify.app/)
 
-- 💬 Ask me about **React,Boostrap, Node, Mongodb**
+- 💬 Ask me about **React, Redux, Node, Mongodb**
 
 - 📫 How to reach me **jaganmj324@gmail.com**
 
