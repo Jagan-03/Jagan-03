@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jaganmj324@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e1gHAOh3XpgjsvrEWalCZBwFcRlxE30B/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bcvXLCFbJsqSlskD9zbqBRcF2lVc4CJr/view?usp=sharing]
 
 - ⚡ Fun fact **Fun facts are not always fun**
 
