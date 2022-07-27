@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaganath Ezhilarasu</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **AWS Solution Architect**
 
 - 👨‍💻 All of my projects are available at [https://jaganath.netlify.app/](https://jaganath.netlify.app/)
 
